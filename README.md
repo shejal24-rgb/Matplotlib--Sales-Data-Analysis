@@ -110,7 +110,7 @@ From the analysis:
 
 ## 💻 Project Structure
 
-```text
+
 matplotlib-sales-data-analysis/
 │
 ├── sales_analysis.py
@@ -120,3 +120,30 @@ matplotlib-sales-data-analysis/
     ├── monthly_sales_bar.png
     ├── sales_vs_profit.png
     └── profit_distribution.png
+
+🧠 Skills Demonstrated
+Data Visualization
+Data Analysis
+Python Programming
+Pandas DataFrame Handling
+Matplotlib
+Chart Customization
+Data Interpretation
+Basic Business Analysis
+
+🚀 Future Improvements
+This project can be extended by:
+Adding a real-world CSV dataset
+Adding more products and regions
+Creating interactive dashboards using Power BI
+Adding more advanced visualizations
+Performing statistical analysis
+Using real company sales data
+
+👩‍💻 Author
+Shejal Dhakate
+Aspiring Data Analyst | Python | SQL | Excel | Pandas | NumPy | Matplotlib
+
+⭐ Acknowledgement
+This project was created as part of my 20-Day Matplotlib Data Visualization learning journey.
+I practiced Matplotlib concepts from basic to advanced level and completed this final project to apply my learning to a real-world style data analysis problem.
